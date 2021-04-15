@@ -1,5 +1,5 @@
 
-![Header](/header2.png)
+![Header](/header3.png)
 
 <!-- <a target="_blank" href="mailto:cecilia.ferrari@gssi.it">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />

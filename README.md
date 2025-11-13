@@ -1,7 +1,7 @@
 
 <!--![Header](/header.png)-->
 
-CECILIA **FERRARI** - PhD in Astroparticle Physics  <a target="_blank" href="mailto:ferraric@mit.edu">    <img align="left" alt="Mail" width="22px" src="/mail_icon.png" /> </a> <a target="_blank" href="mailto:ferraric@mit.edu"><a target="_blank" href="https://https://www.orcid.org/0000-0002-0838-2328"><img align="left" alt="ORCID" width="22px" src="orcid_icon.png" /></a> <a target="_blank" href="https://www.linkedin.com/in/cecilia-ferrari-3b045a186"><img align="left" alt="LinkdeIN" width="22px" src="linkedin_icon.png" />  </a>
+CECILIA **FERRARI** - PhD in Astroparticle Physics  <a target="_blank" href="mailto:ferraric@mit.edu">    <img align="right" alt="Mail" width="22px" src="/mail_icon.png" /> </a> <a target="_blank" href="mailto:ferraric@mit.edu"><a target="_blank" href="https://https://www.orcid.org/0000-0002-0838-2328"><img align="right" alt="ORCID" width="22px" src="orcid_icon_.png" /></a> <a target="_blank" href="https://www.linkedin.com/in/cecilia-ferrari-3b045a186"><img align="right" alt="LinkdeIN" width="22px" src="linkedin_icon.png" />  </a>
 
 ___<br>
 

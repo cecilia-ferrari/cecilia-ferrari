@@ -1,19 +1,13 @@
 
-<!-- ![Header](/header.png)
--->
-<!-- <a target="_blank" href="mailto:cecilia.ferrari@gssi.it">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a> -->
+<!--![Header](/header.png)-->
 
-<!-- <a target="_blank" href="https://www.linkedin.com/in/cecilia-ferrari-3b045a186">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
--->
+CECILIA **FERRARI** - PhD in Astroparticle Physics  <a target="_blank" href="mailto:ferraric@mit.edu">    <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a> <a target="_blank" href="mailto:ferraric@mit.edu">    <a target="_blank" href="https://https://www.orcid.org/0000-0002-0838-2328"> <img align="left" alt="ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" /> </a> <a target="_blank" href="https://www.linkedin.com/in/cecilia-ferrari-3b045a186">    <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  </a>
 
+___<br>
 
+I am interested in **detector R\&D and data analysis for Beyond Standard Model physics**, specifically in neutrino mass, nuclear and dark matter physics in ultra-low-background experiments.
 
-<!--
-**cecilia-ferrari/cecilia-ferrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**cecilia-ferrari/cecilia-ferrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
 
@@ -25,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->

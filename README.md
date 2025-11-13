@@ -1,7 +1,7 @@
 
 <!--![Header](/header.png)-->
 
-CECILIA **FERRARI** - PhD in Astroparticle Physics  <a target="_blank" href="mailto:ferraric@mit.edu">    <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a> <a target="_blank" href="mailto:ferraric@mit.edu">    <a target="_blank" href="https://https://www.orcid.org/0000-0002-0838-2328"> <img align="left" alt="ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" /> </a> <a target="_blank" href="https://www.linkedin.com/in/cecilia-ferrari-3b045a186">    <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  </a>
+CECILIA **FERRARI** - PhD in Astroparticle Physics  <a target="_blank" href="mailto:ferraric@mit.edu">    <img align="left" alt="Mail" width="22px" src="/mail.png" /> </a> <a target="_blank" href="mailto:ferraric@mit.edu"><a target="_blank" href="https://https://www.orcid.org/0000-0002-0838-2328"><img align="left" alt="ORCID" width="22px" src="orcid.png" /></a> <a target="_blank" href="https://www.linkedin.com/in/cecilia-ferrari-3b045a186"><img align="left" alt="LinkdeIN" width="22px" src="linkedin.png" />  </a>
 
 ___<br>
 
